@@ -1,0 +1,19 @@
+{
+  'What is your name?': 'dana',
+  'How old are you?': '15',
+  'What is your favorite color?': 'red ',
+  'What color is your hair?': 'black'
+}[
+  {
+    'What is your name?': 'liana',
+    'How old are you?': '16',
+    'What is your favorite color?': 'red',
+    'What color is your hair?': 'black'
+  },
+  {
+    'What is your name?': 'mariela',
+    'How old are you?': '17',
+    'What is your favorite color?': 'blue',
+    'What color is your hair?': 'black'
+  }
+]
