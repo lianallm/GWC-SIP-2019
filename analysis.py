@@ -10,3 +10,4 @@ for i in s:
     sum_ages += age
 avg = sum_ages / len(s)
 print(avg)
+#comment
