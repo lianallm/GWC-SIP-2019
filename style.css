@@ -1,0 +1,33 @@
+h1 {
+  color: gray;
+  text-align:center;
+}
+*{
+  margin:0;
+  padding:0;
+}
+
+body {
+  text-align: center;
+}
+#showcase{
+  background-image: url("https://www.slideteam.net/wp/wp-content/uploads/2016/05/Gradient-Light-blue-and-teal-690x518.png");
+  background-size: cover;
+  background-position:center;
+  display: fixed;
+  background-repeat: repeat;
+  flex-direction: column;
+  justify-content: center;
+  align-items:center;
+  padding:0 20px
+}
+
+
+.rotateimg90 {
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+
+}
