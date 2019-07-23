@@ -1,4 +1,5 @@
 h1 {
+  font-family: 'PT Sans', sans-serif;
   color: gray;
   text-align:center;
 }
@@ -6,28 +7,37 @@ h1 {
   margin:0;
   padding:0;
 }
-
-body {
+head {
   text-align: center;
 }
+body {
+  text-align: center;
+  font-family: 'PT Sans', sans-serif;
+}
 #showcase{
-  background-image: url("https://www.slideteam.net/wp/wp-content/uploads/2016/05/Gradient-Light-blue-and-teal-690x518.png");
+  background-image:url("https://i0.wp.com/wallpaperfm.com/img/original/1/2/5/34978.jpg");
   background-size: cover;
   background-position:center;
   display: fixed;
-  background-repeat: repeat;
+  /* background-repeat: repeat; */
   flex-direction: column;
   justify-content: center;
   align-items:center;
   padding:0 20px
 }
 
-
-.rotateimg90 {
+/* .rotateimg90 {
   -webkit-transform:rotate(90deg);
   -moz-transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   -o-transform: rotate(90deg);
-  transform: rotate(90deg);
+  transform: rotate(90deg); */
 
+}
+#showcase2{
+  background-color: #FAA6BA;
+}
+
+#showcase3{
+  background-color: #8CFFA9;
 }
